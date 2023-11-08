@@ -1,5 +1,5 @@
-Game_name:欢迎使用WebGAL！;
+Game_name:人/偶;
 Game_key:1526ed0264701b8;
 Package_name:;
 Title_bgm:s_Title.mp3;
-Title_img:WebGAL_New_Enter_Image.png;
+Title_img:封面.png;
